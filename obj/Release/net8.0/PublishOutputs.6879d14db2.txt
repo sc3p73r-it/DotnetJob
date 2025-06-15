@@ -1,0 +1,5 @@
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/publish/DotnetJob
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/publish/DotnetJob.dll
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/publish/DotnetJob.deps.json
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/publish/DotnetJob.runtimeconfig.json
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/publish/DotnetJob.pdb

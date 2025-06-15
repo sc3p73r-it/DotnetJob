@@ -1,0 +1,14 @@
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/bin/Release/net8.0/DotnetJob
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/bin/Release/net8.0/DotnetJob.deps.json
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/bin/Release/net8.0/DotnetJob.runtimeconfig.json
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/bin/Release/net8.0/DotnetJob.dll
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/bin/Release/net8.0/DotnetJob.pdb
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/obj/Release/net8.0/DotnetJob.GeneratedMSBuildEditorConfig.editorconfig
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/obj/Release/net8.0/DotnetJob.AssemblyInfoInputs.cache
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/obj/Release/net8.0/DotnetJob.AssemblyInfo.cs
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/obj/Release/net8.0/DotnetJob.csproj.CoreCompileInputs.cache
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/obj/Release/net8.0/DotnetJob.dll
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/obj/Release/net8.0/refint/DotnetJob.dll
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/obj/Release/net8.0/DotnetJob.pdb
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/obj/Release/net8.0/DotnetJob.genruntimeconfig.cache
+/home/sc3p73r/kubernetes/jobs/job-dotnet/DotnetJob/obj/Release/net8.0/ref/DotnetJob.dll
