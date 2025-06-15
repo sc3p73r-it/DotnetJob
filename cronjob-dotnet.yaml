@@ -3,7 +3,7 @@ kind: CronJob
 metadata:
   name: dotnet-cronjob
 spec:
-  schedule: "*/1 * * * *"  # Every hour
+  schedule: "*/1 * * * *"  # Every minute
   jobTemplate:
     spec:
       template:
